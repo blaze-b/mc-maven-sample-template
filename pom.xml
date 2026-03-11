@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.mclebtec</groupId>
-  <artifactId>mc-project-testing-kata</artifactId>
+  <artifactId>mc-maven-sample-template</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
