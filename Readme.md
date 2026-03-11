@@ -1,1 +1,0 @@
-# Mclebtec project quality red green testing template
